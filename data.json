@@ -1,0 +1,71 @@
+{
+          "starbuck": [
+            {
+              "foto": "https://www.starbucksathome.com/id/sites/default/files/styles/pdp_gallery_small/public/2022-05/SBUX_Premium-Mixes-4_Caramel-Latte_Website_LongShadow_220420_1651564339602.png",
+              "nama": "Kopi Starbuck Caramel Latte",
+              "size": "250 Gram",
+              "harga": "85.000",
+              "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+                },
+            {
+              "foto": "https://www.starbucksathome.com/id/sites/default/files/2022-05/SBUX_Premium-Mixes-4_Cappuccino_Website_LongShadow_220420_1651564339602.png",
+              "nama": "Kopi Starbuck Capuccino",
+              "size": "250 Gram",
+              "harga": "85.000",
+              "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+                },
+            {
+              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0xDHwJx3Mv1Oseb-BkVcP413pg5S2w-Bjw&usqp=CAU",
+              "nama": "Kopi Starbuck Cappuccino Premium",
+              "size": "250 gram",
+              "harga": "150.000",
+              "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+                }
+            ],
+          "arabica": [
+            {
+              "foto": "images/produk/product_capuchino.jpg",
+              "nama": "Cappuccino Arabica",
+              "size": "500 Gram",
+              "harga": "200.000",
+              "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+                },
+            {
+              "foto": "images/produk/product_espresso.jpg",
+              "nama": "Pahit Arabica",
+              "size": "100 Gram",
+              "harga": "100.000",
+              "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+                },
+            {
+              "foto": "images/produk/product_latte.jpg",
+              "nama": "Latte Arabica",
+              "size": "150 Gram",
+              "harga": "150.000",
+              "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+                }
+            ],
+          "robusta": [
+            {
+              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsGowfcz5E3OhuYgkqLs6g2D_cQ1w8w79wQ&usqp=CAU",
+              "nama": "Kopi Robusta",
+              "size": "1.000 Gram",
+              "harga": "500.000",
+              "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+                },
+            {
+              "foto": "images/produk/product_kopi_susu.jpg",
+              "nama": "Kopsus Robusta",
+              "size": "100 Gram",
+              "harga": "50.000",
+              "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+                },
+            {
+              "foto": "images/produk/product_latte.jpg",
+              "nama": "Latte Robusta",
+              "size": "100 Gram",
+              "harga": "50.000",
+              "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+                }
+            ]}
+            
